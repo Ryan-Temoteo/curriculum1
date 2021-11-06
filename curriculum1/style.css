@@ -1,0 +1,49 @@
+.header-green{
+    background-color: rgb(102,205,170);
+    height: 250px;
+}
+img {
+    width: 252px;
+    height: 250px;
+}
+h1 {
+    display: inline-block;
+    margin-left: 50px;
+}
+.container{
+    display: flex;
+}
+header .header-green h1 small{
+    display: block;
+}
+header .container1,header2{ 
+    margin-top: 120px;
+    margin-left: -160px;
+}
+.perfil{
+    margin-top: 60px;
+}
+.perfil,h2,p{
+    width: 877px;
+    margin-left: 50px;
+}
+.perfil1,h2,p{
+    width: 877px;
+    margin-left: 50px;
+}
+.perfil1 ul{
+    width: 790px;
+    margin-left: 50px;
+}
+.lista2,p{
+    width: 877px;
+    margin-left: 50px;
+}
+.lista2 ul{
+    width: 790px;
+    margin-left: 50px;
+}
+.educacao, h2 ,p{
+    width: 877px;
+    margin-left: 50px;
+}
